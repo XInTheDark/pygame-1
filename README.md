@@ -4,8 +4,8 @@ The full package for my 'pygame-1' project, a simple game coded using pygame.
 Necessary information:
 
 # SETUP #
-To ensure that this code runs properly, please make sure you have the full package (including pictures and music)
-Please download 'pygame-1 FULL PACKAGE.zip'
+- To ensure that this code runs properly, please make sure you have the full package (including pictures and music)
+- Please download 'pygame-1 FULL PACKAGE.zip'
 
 # CONTROLS #
 - Left & Right arrow keys to move
