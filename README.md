@@ -5,7 +5,8 @@ Necessary information:
 
 # SETUP #
 To ensure that this code runs properly, please make sure you have the full package (including pictures and music)
-The full package is in my Github: https://github.com/XInTheDark/pygame-1
+Please download 'pygame-1 FULL PACKAGE.zip'
+
 # CONTROLS #
 - Left & Right arrow keys to move
 - Up arrow key to jump
